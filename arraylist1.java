@@ -7,7 +7,7 @@ public class arraylist1 {
     ArrayList<Integer> a = new ArrayList<>();
     a.add(1);
     a.add(2);
-    a.add(3);
+    a.add(34);
     //a.addFirst(9);
     a.set(2,8); 
     a.remove(0);
